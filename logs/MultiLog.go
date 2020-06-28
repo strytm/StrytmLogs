@@ -6,6 +6,8 @@ import (
 	"os"
 	"strings"
 	"time"
+
+	gelf "github.com/robertkowalski/graylog-golang"
 )
 
 var (
